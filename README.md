@@ -1,0 +1,2 @@
+# strigabe
+Striga Server 
